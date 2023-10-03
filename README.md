@@ -1,2 +1,2 @@
 # Pong
-Basics Pong game in Cpp.
+Basic Pong game in Cpp.
